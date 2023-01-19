@@ -1,4 +1,4 @@
-package ru.job4j.chapter05;
+package ru.job4j.chapter04;
 
 import java.util.Arrays;
 
